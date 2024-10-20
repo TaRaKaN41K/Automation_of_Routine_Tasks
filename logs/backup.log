@@ -1,0 +1,25 @@
+2024-10-10 01:41:30,552 - INFO - Запуск процесса резервного копирования
+2024-10-10 01:41:30,554 - INFO - Файл mail.txt успешно скопирован в /Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups
+2024-10-10 01:41:30,554 - INFO - Процесс завершен
+2024-10-10 01:45:32,564 - INFO - Запуск процесса резервного копирования
+2024-10-10 01:45:32,565 - CRITICAL - Ошибка при выполнении резервного копирования: Исходная директория не найдена: 12
+2024-10-10 01:45:32,565 - INFO - Процесс завершен
+2024-10-10 01:47:33,782 - INFO - Запуск процесса резервного копирования
+2024-10-10 01:47:33,784 - CRITICAL - Ошибка при выполнении резервного копирования: [Errno 20] Not a directory: '/Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/logs/backup.log'
+2024-10-10 01:47:33,784 - INFO - Процесс завершен
+2024-10-10 01:48:04,173 - INFO - Запуск процесса резервного копирования
+2024-10-10 01:48:04,175 - INFO - Файл backup.log успешно скопирован в /Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups
+2024-10-10 01:48:04,176 - INFO - Процесс завершен
+2024-10-10 01:52:22,574 - INFO - Запуск процесса резервного копирования
+2024-10-10 01:52:22,579 - INFO - Файл mail.txt успешно скопирован в /Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups
+2024-10-10 01:52:22,580 - INFO - Файл block_file.txt успешно скопирован в /Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups
+2024-10-10 01:52:22,580 - INFO - Процесс завершен
+2024-10-10 01:53:18,483 - INFO - Запуск процесса резервного копирования
+2024-10-10 01:53:18,486 - INFO - Файл mail.txt успешно скопирован в /Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups
+2024-10-10 01:53:18,486 - ERROR - Ошибка при копировании файла block_file.txt: [Errno 13] Permission denied: '/Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups/block_file.txt'
+2024-10-10 01:53:18,486 - INFO - Процесс завершен
+2024-10-10 01:54:19,321 - INFO - Запуск процесса резервного копирования
+2024-10-10 01:54:19,324 - INFO - Файл mail.txt успешно скопирован в /Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups
+2024-10-10 01:54:19,325 - WARNING - Dir не является файлом и пропущен
+2024-10-10 01:54:19,325 - ERROR - Ошибка при копировании файла block_file.txt: [Errno 13] Permission denied: '/Users/feodorkalasov/Work/PT_Start/Отчёты/Modul_5_DevOps/1_3/automation_of_routine_tasks/backups/block_file.txt'
+2024-10-10 01:54:19,325 - INFO - Процесс завершен
