@@ -1,1 +1,1 @@
-# automation_of_routine_tasks
+# Скрипты с автоматизацией рутинных задач
